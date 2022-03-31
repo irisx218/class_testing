@@ -6,8 +6,9 @@ This is a temporary script file.
 """
 print('Hello World')
 
-x = 10
+x = 20
 
 print(x * 2)
 
 print('No More Python')
+
